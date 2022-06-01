@@ -1,0 +1,101 @@
+# well we prolly need to use tuples approach as order of keys in object is not fixed
+en:
+    - 
+        - Story
+        - >
+            Uncover conspiracy of the high ranked staff of the corporation
+            and choose your own way!
+      
+    - 
+        - Lore
+        - > 
+            Discover deep mysterious game's 
+            universe. Are we alone? What is 
+            the Terminal System? Who are the 
+            Rebels and the Corporation? 
+            Find answers on all these questions
+      
+    -
+        - Style
+        - >
+            Game's signature style is inspired by older text-based terminal interfaces, 
+            the game puts a refreshing spin on it by incorporating 
+            vibrant colors, smooth animations, digital-analog 
+            transitions and effects
+    -
+        - Multiplayer
+        - >
+            Play with your friends in a new unique 
+            cooperation mode. The multiplayer lobbies 
+            support from 2 up to 10 people with dedicated leaderboards!
+   
+    - 
+        - Achievements
+        - > 
+            Hundred of achievements scaled from very easy
+            to extremely tough for employees that 
+            enjoy completing games for 100%
+    -
+        - Secured        
+        - >        
+            The tough achievements are secured meaning 
+            no bad employee will be able to hack them using 
+            different means, which grants you the true feel 
+            of accomplishment
+    -
+        - Leaderboards
+        - >
+            Show off your skill against other players! 
+            Every gamemode along with difficulty 
+            variations have a dedicated leaderboard
+    -
+        - Skins
+        - >
+            You can also customize your leaderboard
+             entries with skins and name mods
+            in-game so everyone can see your flex
+            
+    
+    -
+        - Anticheat
+        - >
+            As hyper hardcore is a competitive game the scores must be fair, 
+            that's why it has a custom anticheat to provide players 
+            with best experience and filter out cheaters
+    -
+        - Inventory
+        - >
+            Vast variety of different things from backgrounds, 
+            which you must collect all the pieces to use 
+            it to leaderboard entry skins, mods and ban hammers for players interaction along with in-game currency. You can trade everything with others
+                
+            
+    -
+        - Profile
+        - >
+            Follow our social media and join Discord server
+            for occasional loot rewards code drops, so you could activate
+            them on Employee Profile
+    
+    -
+        - Workshop*
+        - >
+            Support for custom user-styles, 
+            so the players could create own
+            themes and then share them
+            with others!
+            <br><br>
+            * - <i>coming in the future, 
+            themes customization is already available</i>
+    -
+        - Lootboxes 
+        # @todo also is not valid why bruh
+        - >
+            Obtain exclusive rewards such as Banhammers (to temporarily ban other players based on their Access Level) and XP Boosters from Encrypted datablocks.
+            <br><br>
+            Regular tier blocks are dropped in-game, while permium tier is obtainable via promotions and reward codes or just direct purchase on game's item market
+    -
+        - Localization
+        - >
+            The game is available in multiple languages 
+            including English, Russian, German and Spanish
