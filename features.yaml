@@ -84,15 +84,15 @@ en:
             so the players could create own
             themes and then share them
             with others!
-            <br><br>
-            * - <i>coming in the future, 
-            themes customization is already available</i>
+            {'<'}br{'>'}{'<'}br{'>'}
+            * - {'<'}i{'>'}coming in the future, 
+            themes customization is already available{'<'}/i{'>'}
     -
         - Lootboxes 
         # @todo also is not valid why bruh
         - >
             Obtain exclusive rewards such as Banhammers (to temporarily ban other players based on their Access Level) and XP Boosters from Encrypted datablocks.
-            <br><br>
+            {'<'}br{'>'}{'<'}br{'>'}
             Regular tier blocks are dropped in-game, while permium tier is obtainable via promotions and reward codes or just direct purchase on game's item market
     -
         - Localization

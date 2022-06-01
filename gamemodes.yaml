@@ -2,13 +2,13 @@ en:
   title: hyper hardcore is a competitive typing game with a story to follow taking place in its original universe
   desc: the game has 4 core singleplayer gamemodes
   gamemodes:
-    - Requires ultimate perception and typing skills. Smash <span>sides</span> and input <span>words</span>, but beware of hitting <span style="color:red">red ignore</span> sides! Watch for side <span>dimensions</span> and <span>reversed</span> order
+    - Requires ultimate perception and typing skills. Smash {'<'}span{'>'}sides{'<'}/span{'>'} and input {'<'}span{'>'}words{'<'}/span{'>'}, but beware of hitting {'<'}span style="color:red"{'>'}red ignore{'<'}/span{'>'} sides! Watch for side {'<'}span{'>'}dimensions{'<'}/span{'>'} and {'<'}span{'>'}reversed{'<'}/span{'>'} order
   
-    - Are you tired but you still need to work? Typewriter mode is what you're looking for! The most relaxing mode requires from you only typing <span>words</span> and occasionally in <span>reversed</span> order
+    - Are you tired but you still need to work? Typewriter mode is what you're looking for! The most relaxing mode requires from you only typing {'<'}span{'>'}words{'<'}/span{'>'} and occasionally in {'<'}span{'>'}reversed{'<'}/span{'>'} order
 
-    - Already known mode for Corporation Employee Veterans. It was inherited by newer corporations as the mode proved its reliability. Pure <span>word</span> typing and <span>side</span> smashing
+    - Already known mode for Corporation Employee Veterans. It was inherited by newer corporations as the mode proved its reliability. Pure {'<'}span{'>'}word{'<'}/span{'>'} typing and {'<'}span{'>'}side{'<'}/span{'>'} smashing
 
-    - ????????????????<br> <span>[classified]</span>
+    - ????????????????{'<'}br{'>'} {'<'}span{'>'}[classified]{'<'}/span{'>'}
 
 # ru:
   
